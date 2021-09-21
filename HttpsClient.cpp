@@ -1,4 +1,4 @@
-#include "report_server/https/HttpsClient.h"
+#include "HttpsClient.h"
 
 namespace agile {
 namespace https {
